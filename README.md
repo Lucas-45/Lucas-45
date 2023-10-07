@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Lucas-45 (De oliveira Lucas)
-- 👀 I’m interested in 
-- 🌱 I’m currently learning in the .IUT Informatique
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning in the IUT Informatique
 - 📫 How to reach me gol.d.lucas45@gmail.com
 
 <!---
